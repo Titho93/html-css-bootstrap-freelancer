@@ -20,3 +20,8 @@ li a {
 .container-t {
   width: 100%;
 }
+
+#about {
+  background-color: #19BC9C;
+  color: white;
+}
