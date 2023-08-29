@@ -1,5 +1,6 @@
 .debug {
   background-color: green;
+  border: 1px solid black;
 }
 
 header {
@@ -10,4 +11,12 @@ header {
 
 li a {
   color: white;
+}
+
+.jumbotron-t {
+  background-color: #55BD9C;
+}
+
+.container-t {
+  width: 100%;
 }
