@@ -38,6 +38,17 @@ button-tb:hover i {
   width: 250px;
 }
 
+.line {
+  height: 3px;
+  line-height: 10px;
+  background-color: white;
+  border-radius: 2px;
+}
+
+.star i {
+  font-size: 25px;
+}
+
 /* About  */
 #about {
   background-color: #19BC9C;
