@@ -54,6 +54,11 @@ button-tb:hover i {
   background-color: black;
 }
 
+#portfolio img {
+  width: 100%;
+  border-radius: 10px;
+}
+
 /* About  */
 #about {
   background-color: #19BC9C;
