@@ -23,6 +23,11 @@ li a {
   color: white;
 }
 
+.container-tb {
+  width: 60%;
+  margin: 0 auto;
+}
+
 footer {
   color: white;
   background-color: #3A546D;
@@ -30,4 +35,5 @@ footer {
 
 .copyright {
   background-color: #2C3E50;
+  height: 110px;
 }
