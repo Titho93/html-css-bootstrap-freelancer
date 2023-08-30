@@ -93,5 +93,19 @@ footer {
   height: 110px;
 }
 
+.social {
+  border: 1px solid white;
+  border-radius: 50%;
+  padding: 5px 0;
+  margin: 0 6px;
+}
 
+.social a {
+  color: white;
+}
+
+footer p a {
+  color: #14C4A0;
+  text-decoration: none;
+}
 
