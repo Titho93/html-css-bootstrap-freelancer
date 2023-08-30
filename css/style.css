@@ -10,6 +10,7 @@ header {
   color: white;
   position: fixed;
   width: 100%;
+  z-index: 999;
 }
 
 li a {
@@ -60,6 +61,27 @@ button-tb:hover i {
 #portfolio img {
   width: 100%;
   border-radius: 10px;
+}
+
+#portfolio .col {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+#portfolio .container-t i {
+  font-size: 70px;
+  position: absolute;
+  display: none;
+}
+
+#portfolio .container-t .col:hover {
+  filter:contrast(50%);
+}
+
+#portfolio .container-t .col:hover i {
+  display: block;
 }
 
 /* About  */
