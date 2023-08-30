@@ -3,6 +3,7 @@
   border: 1px solid black;
 }
 
+/* Header  */
 header {
   height: 90px;
   background-color: #2C3E50;
@@ -11,31 +12,6 @@ header {
 
 li a {
   color: white;
-}
-
-.jumbotron-t {
-  background-color: #55BD9C;
-  color: white;
-}
-
-#about {
-  background-color: #19BC9C;
-  color: white;
-}
-
-.container-tb {
-  width: 60%;
-  margin: 0 auto;
-}
-
-footer {
-  color: white;
-  background-color: #3A546D;
-}
-
-.copyright {
-  background-color: #2C3E50;
-  height: 110px;
 }
 
 button-tb {
@@ -51,3 +27,38 @@ button-tb i {
 button-tb:hover i {
   color: white;
 }
+
+/* Jumbotron  */
+.jumbotron-t {
+  background-color: #55BD9C;
+  color: white;
+}
+
+.jumbotron-t img {
+  width: 250px;
+}
+
+/* About  */
+#about {
+  background-color: #19BC9C;
+  color: white;
+}
+
+.container-tb {
+  width: 60%;
+  margin: 0 auto;
+}
+
+/* Footer  */
+footer {
+  color: white;
+  background-color: #3A546D;
+}
+
+.copyright {
+  background-color: #2C3E50;
+  height: 110px;
+}
+
+
+
