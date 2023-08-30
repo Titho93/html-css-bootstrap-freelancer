@@ -8,6 +8,8 @@ header {
   height: 90px;
   background-color: #2C3E50;
   color: white;
+  position: fixed;
+  width: 100%;
 }
 
 li a {
@@ -30,6 +32,7 @@ button-tb:hover i {
 
 /* Jumbotron  */
 .jumbotron-t {
+  padding-top: 100px;
   background-color: #55BD9C;
   color: white;
 }
