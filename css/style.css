@@ -37,3 +37,17 @@ footer {
   background-color: #2C3E50;
   height: 110px;
 }
+
+button-tb {
+  background-color: #2C3E50;
+  border: 1px solid white;
+  border-radius: 3px;
+}
+
+button-tb i {
+  color: grey;
+}
+
+button-tb:hover i {
+  color: white;
+}
