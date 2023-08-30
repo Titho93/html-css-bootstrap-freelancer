@@ -70,6 +70,18 @@ button-tb:hover i {
   margin: 0 auto;
 }
 
+/* Contact Me  */
+.input-tb::placeholder {
+  color: black;
+}
+
+.input-tb {
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-radius: 0;
+}
+
 /* Footer  */
 footer {
   color: white;
