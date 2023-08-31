@@ -74,6 +74,7 @@ button-tb:hover i {
   font-size: 70px;
   position: absolute;
   display: none;
+  color: white;
 }
 
 #portfolio .container-t .col:hover {
